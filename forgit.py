@@ -44,6 +44,11 @@ for i in range(4):
 	elif user_list[i] in computer_list:
 		bools +=1
 print("cows\t", f"{cows}")	
-print("bools\t", f"{bools}")			
+print("bools\t", f"{bools}")	
+
+
+
+
+print("we will win")		
 
 				
