@@ -18,6 +18,17 @@ Circle.paragic()
 Circle.area()	
 ##############################
 2 xndir
+class dicte:
+	def __init__(self,list_,target)
+		self.list_ = dict_1
+		self.target = dict_2
+	def dictation(self):
+		
+		for i in dict_2:
+			for j in dict_2:
+				if i + j = self.target and j.index() != i.index():
+
+ 
 
 
 

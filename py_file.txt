@@ -1,0 +1,9 @@
+hello
+world
+
+from Basic IT
+ today is 10/22/2020hello
+worldhello
+world
+
+{"key1":5,"key2":"hello word"}

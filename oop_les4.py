@@ -27,3 +27,5 @@ example = task()
 example.dictionary() 	
 example.dublicate()
 example.max_3()
+
+

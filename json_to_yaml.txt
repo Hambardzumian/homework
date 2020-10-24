@@ -1,0 +1,6 @@
+items:
+- age: 16
+  height: 1.7
+  married: false
+  name: Hayk
+  surname: Hambardzumyan

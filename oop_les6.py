@@ -48,9 +48,9 @@ class product(Country, Brand, Season):
 		print("The avaible quantiti of a product", self.quantiti)
 
 Germany = Country("Germany","Europe")		
-Adidas = Brand("Adidas",2017)
+Adidas = Brand("Adidas",1949)
 summer = Season("summer",35)
-Yezzy = product("Adidas","Yezzy",500,2500,"Germany","Adidas","summer","Europe",2017,35)
+Yezzy = product("Adidas","Yezzy",500,2500,"Germany","Adidas","summer","Europe",1949,35)
 
 Germany.presentation()
 Adidas.brand_presentation()
